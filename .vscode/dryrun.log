@@ -1,6 +1,0 @@
-make --dry-run --always-make --keep-going --print-directory
-make: Entering directory '/home/bs/work/spf12.0_8074/noc_feeds'
-make: Leaving directory '/home/bs/work/spf12.0_8074/noc_feeds'
- 
-make: *** No targets specified and no makefile found.  Stop.
-
